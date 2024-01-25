@@ -1,0 +1,17 @@
+romankalvin@MacBook-Pro-Roman ivi % history
+  133  ls -a
+  134  git clone git@github.com:KalinaVina/Ivi.git
+  135  cd ivi
+  136  touch file.md
+  137  git add .
+  138  git commitb-m"hello"
+  139  git --help
+  140  git commit -m"hello"
+  141  git push -u origin main
+  142  git branch Oslik
+  143  git checkout Oslik
+  144  git branch
+  145  nano file.md
+  146  git add .
+  147  git commit -m"2commit"
+  148  git push -u origin Oslik
